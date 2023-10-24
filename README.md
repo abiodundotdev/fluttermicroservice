@@ -1,8 +1,8 @@
 ## Flutter Microservice
 
-This is the imlementation of microservice architecture in flutter.  Stay Glued to this repo, you will love it.
+This is the implementation of microservice architecture in flutter.  Stay Glued to this repo, you will love it.
 
-This architecture splits each feature into a diffrent service or domain where each can standalone as an app and can be connected into a single app using app.
+This architecture seperates each feature into a diffrent service or domain where each can standalone as an app and can be connected into a single app using app.
 
 It uses the following features of microservice
 
